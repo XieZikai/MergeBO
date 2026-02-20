@@ -1,0 +1,8 @@
+torch
+botorch==0.7.1
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+jpype1
